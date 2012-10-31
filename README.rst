@@ -4,6 +4,10 @@ Django support for Sublime Text 2
 Overview
 --------
 
+Extended by me to add in `Tidy Django Tags` command on the command palette. Fixes the spacing in the tags to be consistent, if you have other team members that don't add spacing around the tags.
+
+Also deleted the Python snippets which I found useless.
+
 Installation
 ------------
 
