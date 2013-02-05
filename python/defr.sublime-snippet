@@ -1,0 +1,9 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <content><![CDATA[
+def ${1:view}_vw(${2:request}):
+    ${3:pass}
+]]></content>
+    <tabTrigger>defr</tabTrigger>
+    <scope>source.python</scope>
+</snippet>
